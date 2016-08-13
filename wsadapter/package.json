@@ -1,0 +1,24 @@
+{
+	"name": "wsadapter",
+	"version": "1.0.0",
+	"description": "simple websocket adapter",
+	"main": "src/wsadapter.coffee",
+	"dependencies": {},
+	"peerDependencies": {
+		"hubot": "^2.19.0"
+	},
+	"devDependencies": {
+		"coffee-script": ">=1.2.0"
+	},
+
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"hubot",
+		"websocket",
+		"adapter"
+	],
+	"author": "c.j. voogd",
+	"license": "MIT"
+}
